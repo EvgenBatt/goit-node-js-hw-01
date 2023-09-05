@@ -5,3 +5,6 @@ https://drive.google.com/drive/folders/1cMmtveT2DO3rg9-WD96j09zuzfbeEV8o?usp=sha
 
 Скріншоти виконання команд:
 
+
+![1_action_list]([URL_ИЗОБРАЖЕНИЯ](https://github.com/EvgenBatt/goit-node-js-hw-01/blob/main/img/1_action_list.png)https://github.com/EvgenBatt/goit-node-js-hw-01/blob/main/img/1_action_list.png)
+
